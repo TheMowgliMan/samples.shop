@@ -1,3 +1,27 @@
 body {
     font-family: 'Roboto Condensed', sans-serif;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.bg-dark {
+    background-color: #03071E;
+    color: azure;
+}
+
+.navbar.bg-dark {
+    background-color: #03071E !important;
+}
+
+.red-dark {
+    background-color: #370617;
+    color: azure;
+}
+
+.carousel-caption {
+    background-color: #03071E;
+}
+
+h1 {
+    font-weight: 300;
 }
