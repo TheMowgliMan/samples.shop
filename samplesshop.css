@@ -40,6 +40,10 @@ body {
     border-right: 3px solid #370617;
 }
 
+.bottom-sep {
+    border-bottom: 3px solid #370617;
+}
+
 h1,h2,h3,h4 {
     font-weight: 300;
 }
