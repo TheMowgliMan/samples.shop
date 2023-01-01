@@ -1,7 +1,11 @@
 body {
     font-family: 'Roboto Condensed', sans-serif;
-    margin-left: 0px;
-    margin-right: 0px;
+    font-weight: 400;
+    background-color: #e5e8fa
+}
+
+.container-fluid {
+    padding: 0;
 }
 
 .bg-dark {
@@ -11,6 +15,8 @@ body {
 
 .navbar.bg-dark {
     background-color: #03071E !important;
+    padding-left: 12px;
+    padding-right: 12px;
 }
 
 .red-dark {
@@ -22,6 +28,14 @@ body {
     background-color: #03071E;
 }
 
-h1 {
+.ss-text-box {
+    background-color: #03071E;
+    color: azure;
+    padding: 20px;
+    margin: 25px;
+    border-radius: 15px;
+}
+
+h1,h2,h3,h4 {
     font-weight: 300;
 }
