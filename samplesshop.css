@@ -36,6 +36,10 @@ body {
     border-radius: 15px;
 }
 
+.right-sep {
+    border-right: 1px solid #370617;
+}
+
 h1,h2,h3,h4 {
     font-weight: 300;
 }
