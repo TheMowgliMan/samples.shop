@@ -1,7 +1,7 @@
 body {
     font-family: 'Roboto Condensed', sans-serif;
     font-weight: 400;
-    background-color: #e5e8fa
+    background-color: #eedfda;
 }
 
 h1,h2,h3,h4 {
@@ -10,7 +10,7 @@ h1,h2,h3,h4 {
 
 footer {
     background-color: #370617;
-    color: azure;
+    color: #eedfda;
 }
 
 .container-fluid {
@@ -19,7 +19,7 @@ footer {
 
 .bg-dark {
     background-color: #370617;
-    color: azure;
+    color: #eedfda;
 }
 
 .navbar.bg-dark {
@@ -30,7 +30,7 @@ footer {
 
 .red-dark {
     background-color: #370617;
-    color: azure;
+    color: #eedfda;
 }
 
 .carousel-caption {
@@ -39,20 +39,20 @@ footer {
 
 .ss-text-box {
     background-color: #370617;
-    color: azure;
+    color: #eedfda;
     padding: 20px;
     margin: 25px;
     border-radius: 15px;
 }
 
 .right-sep {
-    border-right: 3px solid #03071E;
+    border-right: 3px solid #6A040F;
 }
 
 .bottom-sep {
-    border-bottom: 3px solid #03071E;
+    border-bottom: 3px solid #6A040F;
 }
 
 .soft {
-    color: rgb(164, 175, 175);
+    color: #c7afa7;
 }
