@@ -4,17 +4,26 @@ body {
     background-color: #e5e8fa
 }
 
+h1,h2,h3,h4 {
+    font-weight: 300;
+}
+
+footer {
+    background-color: #370617;
+    color: azure;
+}
+
 .container-fluid {
     padding: 0;
 }
 
 .bg-dark {
-    background-color: #03071E;
+    background-color: #370617;
     color: azure;
 }
 
 .navbar.bg-dark {
-    background-color: #03071E !important;
+    background-color: #370617 !important;
     padding-left: 12px;
     padding-right: 12px;
 }
@@ -25,11 +34,11 @@ body {
 }
 
 .carousel-caption {
-    background-color: #03071E;
+    background-color: #370617;
 }
 
 .ss-text-box {
-    background-color: #03071E;
+    background-color: #370617;
     color: azure;
     padding: 20px;
     margin: 25px;
@@ -37,13 +46,13 @@ body {
 }
 
 .right-sep {
-    border-right: 3px solid #370617;
+    border-right: 3px solid #03071E;
 }
 
 .bottom-sep {
-    border-bottom: 3px solid #370617;
+    border-bottom: 3px solid #03071E;
 }
 
-h1,h2,h3,h4 {
-    font-weight: 300;
+.soft {
+    color: rgb(164, 175, 175);
 }
